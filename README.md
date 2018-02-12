@@ -1,2 +1,3 @@
 # tf_mnist
-A toy neural net configured to learn the layers tool in TF by learning on the MNIST dataset.
+This is me testing how to configure a basic mnist project using TF, 
+and eventually hooking it up with Kaggle.
